@@ -1,0 +1,5 @@
+bucket_name = "aiops.d-aiml-315952988300-us-east-2"
+file_name = "Catalog2.csv"
+embed_file = "catalog_embeds.csv"
+save_location = "data/catalog_embeds.csv"
+model_name = "fm_catalog"
